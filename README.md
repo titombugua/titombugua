@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @titombugua
+- 👀 I’m interested in Python, Django, React, Javascript and basically anything web apps ...
+- 🌱 I’m currently learning React...
+- 📫 How to reach me iamtitombugua@gmail.com...
+
+<!---
+titombugua/titombugua is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
